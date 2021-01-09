@@ -1,7 +1,7 @@
 # 4wards POC1.a
 <i>Project created July 24th, 2020</i>
 
-A test I created to explore concepts for the ![4wards project](https://github.com/tunepruner/4wards). It also served as an exploration of screen navigation in JavaFX, the Date/Time API, and file I/O. 
+A test I created to explore concepts for the ![4wards project](https://github.com/tunepruner/4wards). It also served as an exploration drag handling in JavaFX, the Date/Time API, and file I/O. 
 
 ![this](ScreenShot.png)
 
