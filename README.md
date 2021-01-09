@@ -1,5 +1,5 @@
 # 4wards POC1.a
-A test I created to explore concepts for the ![4wards project](https://github.com/tunepruner/4wards). It also served as an exploration of screen navigation in JavaFX and the Date/Time API. 
+A test I created to explore concepts for the ![4wards project](https://github.com/tunepruner/4wards). It also served as an exploration of screen navigation in JavaFX, the Date/Time API, and file I/O. 
 
 ![this](ScreenShot.png)
 
